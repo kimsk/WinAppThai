@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<images>
+  <image>
+    <startdate>20130217</startdate>
+    <fullstartdate>201302170000</fullstartdate>
+    <enddate>20130218</enddate>
+    <url>/az/hprichbg/rb/IndianTreeSeedPods_EN-US722603560.jpg</url>
+    <urlBase>/az/hprichbg/rb/IndianTreeSeedPods_EN-US7476367752</urlBase>
+    <copyright>Empty seedpods from a kassod tree in the district of Anantapur, Andhra Pradesh, India (© Tim Gainey/Alamy)</copyright>
+    <copyrightlink>http://www.bing.com/search?q=Kassod+Tree+%28Senna+siamea%29&amp;qs=n&amp;form=hpcapt</copyrightlink>
+    <drk>1</drk>
+    <top>1</top>
+    <bot>1</bot>
+    <hotspots>
+      <hotspot>
+        <desc>The seeds have scattered to the four winds, leaving only the dry, empty pods.</desc>
+        <link>http://www.bing.com/images/search?q=Kassod+Tree+(Senna+siamea)&amp;FORM=hphot1</link>
+        <query>Perhaps those seeds will grow more of these</query>
+        <LocX>19</LocX>
+        <LocY>46</LocY>
+      </hotspot>
+      <hotspot>
+        <desc>A repository on the cold shores of a Norwegian island has become a modern-day Noah's Ark for plant seeds.</desc>
+        <link>http://www.bing.com/search?q=Svalbard+Seed+Vault&amp;form=hphot2</link>
+        <query>No really, people even call it the Doomsday Vault</query>
+        <LocX>41</LocX>
+        <LocY>36</LocY>
+      </hotspot>
+      <hotspot>
+        <desc>Once seeds are out of their protective pods...</desc>
+        <link>http://www.bing.com/videos/search?q=how+to+grow+a+planet+seed&amp;view=detail&amp;mid=2B7F565755EB05B142AE2B7F565755EB05B142AE&amp;first=0&amp;FORM=hphot3</link>
+        <query>They're fair game for all manner of mischief</query>
+        <LocX>67</LocX>
+        <LocY>40</LocY>
+      </hotspot>
+      <hotspot>
+        <desc>You'll find plenty of these seedpods underfoot as you explore…</desc>
+        <link>http://www.bing.com/search?q=Andhra+Pradesh%2c+India&amp;form=hphot4</link>
+        <query>This diverse region on the Bay of Bengal</query>
+        <LocX>83</LocX>
+        <LocY>49</LocY>
+      </hotspot>
+    </hotspots>
+    <messages></messages>
+  </image>
+  <tooltips>
+    <loadMessage>
+      <message>Loading...</message>
+    </loadMessage>
+    <previousImage>
+      <text>Previous</text>
+    </previousImage>
+    <nextImage>
+      <text>Next</text>
+    </nextImage>
+    <play>
+      <text>Play</text>
+    </play>
+    <pause>
+      <text>Pause</text>
+    </pause>
+  </tooltips>
+</images>
